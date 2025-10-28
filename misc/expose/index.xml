@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exposé/Groupe de travail on Jiangfan Yuan</title>
+    <link>http://localhost:1313/misc/expose/</link>
+    <description>Recent content in Exposé/Groupe de travail on Jiangfan Yuan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/misc/expose/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talk at Arbeitsgemeinschaft: P=W conjecture</title>
+      <link>http://localhost:1313/misc/expose/oberwolfach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/expose/oberwolfach/</guid>
+      <description>&lt;p&gt;On the proof of P=W conjecture by Hausel-Mellit-Minets-Schiffmann. The collection of whole talks of the event is &lt;a href=&#34;https://publications.mfo.de/bitstream/handle/mfo/4211/OWR_2024_16.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Talk at groupe de travail: P=W conjecture</title>
+      <link>http://localhost:1313/misc/expose/gdtpw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/expose/gdtpw/</guid>
+      <description>&lt;p&gt;On the proof of P=W conjecture by Maulik-Shen. The GdT website can be visited at &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/~emanuele.macri/GdT2022.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Talk at Séminaire Mathjeunes</title>
+      <link>http://localhost:1313/misc/expose/mathjeunes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/expose/mathjeunes/</guid>
+      <description>&lt;p&gt;The geometric aspect of relative Langlands.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

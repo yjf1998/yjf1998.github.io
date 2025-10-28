@@ -12,7 +12,11 @@
   </url><url>
     <loc>http://localhost:1313/writings/preprints/perverse-cox-eg/</loc>
   </url><url>
+    <loc>http://localhost:1313/misc/expose/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/misc/liens-utile/</loc>
   </url><url>
     <loc>http://localhost:1313/writings/misc-writings/aff-grass/</loc>
   </url><url>
@@ -31,6 +35,12 @@
     <loc>http://localhost:1313/writings/misc-writings/quiver/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/misc/expose/oberwolfach/</loc>
+  </url><url>
+    <loc>http://localhost:1313/misc/expose/gdtpw/</loc>
+  </url><url>
+    <loc>http://localhost:1313/misc/expose/mathjeunes/</loc>
   </url><url>
     <loc>http://localhost:1313/writings/preprints/canonical-basis/</loc>
   </url><url>

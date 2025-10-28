@@ -12,7 +12,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Greetings! I am a Ph.D student in &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/&#34;&gt;Laboratoire de Mathématiques d’Orsay &lt;/a&gt;, supervised by &lt;a href=&#34;https://sites.google.com/site/olivierschiffmann/home&#34;&gt;Olivier Schiffmann&lt;/a&gt;. I am interested in geometric representation theory and its interaction with mathematical physics (eg. quantum groups), automorphic forms (eg. geometric Langlands) and enumerative geometry (eg. DT-theory).&lt;/p&gt;</description>
+      <description>&lt;p&gt;Greetings! I am a Ph.D student in &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/&#34;&gt;Laboratoire de Mathématiques d’Orsay &lt;/a&gt;, supervised by &lt;a href=&#34;https://sites.google.com/site/olivierschiffmann/home&#34;&gt;Olivier Schiffmann&lt;/a&gt;. &lt;br&gt;&#xA;I am interested in geometric representation theory and its interaction with mathematical physics (eg. quantum groups), automorphic forms (eg. geometric Langlands) and enumerative geometry (eg. DT-theory). &lt;br&gt;&#xA;I can be reached at prenom[.]nom[at]universite-paris-saclay[.]fr&lt;/p&gt;</description>
     </item>
     <item>
       <title>Deligne-Lusztig theory and finite $\Theta$ correspondence</title>
@@ -62,6 +62,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/writings/misc-writings/quiver/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Talk at Arbeitsgemeinschaft: P=W conjecture</title>
+      <link>http://localhost:1313/misc/expose/oberwolfach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/expose/oberwolfach/</guid>
+      <description>&lt;p&gt;On the proof of P=W conjecture by Hausel-Mellit-Minets-Schiffmann. The collection of whole talks of the event is &lt;a href=&#34;https://publications.mfo.de/bitstream/handle/mfo/4211/OWR_2024_16.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Talk at groupe de travail: P=W conjecture</title>
+      <link>http://localhost:1313/misc/expose/gdtpw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/expose/gdtpw/</guid>
+      <description>&lt;p&gt;On the proof of P=W conjecture by Maulik-Shen. The GdT website can be visited at &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/~emanuele.macri/GdT2022.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Talk at Séminaire Mathjeunes</title>
+      <link>http://localhost:1313/misc/expose/mathjeunes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/misc/expose/mathjeunes/</guid>
+      <description>&lt;p&gt;The geometric aspect of relative Langlands.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Hall category and canonical basis </title>

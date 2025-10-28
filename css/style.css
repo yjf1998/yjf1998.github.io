@@ -231,6 +231,59 @@ footer {
   font-style: italic;
 }
 
+/* ==== Misc Page ==== */
+.misc-main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  color: #eee;
+}
+
+.misc-title {
+  font-family: "EB Garamond", serif;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  text-align: left;
+  color: #fff;
+}
+
+.misc-section-title {
+  font-family: "EB Garamond", serif;
+  font-size: 1.2rem;
+  color: rgb(255, 255, 255);
+  border-bottom: 1px solid #333;
+  padding-bottom: 0.2rem;
+  margin-top: 2rem;
+}
+
+.misc-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.misc-item {
+  margin-bottom: 0.8rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.misc-item .desc {
+  color: #eee;  /* 白字描述 */
+  margin-right: 0.5rem;
+}
+
+.misc-item .pdf-link {
+  color: #9cc;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.misc-item .pdf-link:hover {
+  text-decoration: underline;
+  color: #fff;
+}
+
 /* ==== About 页面样式 ==== */
 .about-main {
   display: flex;
@@ -380,3 +433,14 @@ html, body {
     }
   }
 
+body {
+  font-family: 
+    "EB Garamond", 
+    "Noto Serif", 
+    "Noto Serif SC", 
+    "Noto Sans CJK SC", 
+    "Songti SC",
+    "Hiragino Mincho ProN",
+    "Times New Roman", 
+    serif;
+}
