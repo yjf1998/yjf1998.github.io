@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiangfan Yuan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jiangfan Yuan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Greetings! I am a Ph.D student in &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/&#34;&gt;Laboratoire de Mathématiques d’Orsay &lt;/a&gt;, supervised by &lt;a href=&#34;https://sites.google.com/site/olivierschiffmann/home&#34;&gt;Olivier Schiffmann&lt;/a&gt;. I am interested in geometric representation theory and its interaction with mathematical physics (eg. quantum groups), automorphic forms (eg. geometric Langlands) and enumerative geometry (eg. DT-theory).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deligne-Lusztig theory and finite $\Theta$ correspondence</title>
+      <link>http://localhost:1313/writings/misc-writings/finite-theta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/misc-writings/finite-theta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Examples of Perverse Coxeter Sheaves and Schobers</title>
+      <link>http://localhost:1313/writings/preprints/perverse-cox-eg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/preprints/perverse-cox-eg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mémoire de Master 2</title>
+      <link>http://localhost:1313/writings/misc-writings/aff-grass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/misc-writings/aff-grass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes on affine Grassmannians</title>
+      <link>http://localhost:1313/writings/notes/aff-grass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/notes/aff-grass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes on analytic stacks</title>
+      <link>http://localhost:1313/writings/notes/analytic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/notes/analytic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proof of geometric Langlands correspondence.</title>
+      <link>http://localhost:1313/writings/notes/notes-on-glc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/notes/notes-on-glc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Survey on quiver representations and quiver varieties</title>
+      <link>http://localhost:1313/writings/misc-writings/quiver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/misc-writings/quiver/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Hall category and canonical basis </title>
+      <link>http://localhost:1313/writings/preprints/canonical-basis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/preprints/canonical-basis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Langlands formula and perverse sheaves</title>
+      <link>http://localhost:1313/writings/preprints/langlands-perverse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/preprints/langlands-perverse/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;www.baidu.com&#34;&gt;M.Kapranov&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Whittaker models and Whittaker category</title>
+      <link>http://localhost:1313/writings/notes/whittaker-category/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writings/notes/whittaker-category/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
