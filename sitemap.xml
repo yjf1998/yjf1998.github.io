@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/writings/preprints/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
@@ -49,5 +51,101 @@
     <loc>http://localhost:1313/writings/notes/whittaker-category/</loc>
   </url><url>
     <loc>http://localhost:1313/writings/</loc>
+=======
+    <loc>https://yjf1998.github.io/writings/preprints/</loc>
   </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/misc-writings/finite-theta/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/preprints/perverse-cox-eg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/misc/expose/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/misc/liens-utile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/misc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/misc-writings/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/misc-writings/aff-grass/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/notes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/notes/aff-grass/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/notes/analytic/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/notes/notes-on-glc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/misc-writings/quiver/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/misc/expose/oberwolfach/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/misc/expose/gdtpw/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/misc/expose/mathjeunes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/preprints/canonical-basis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/preprints/langlands-perverse/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/notes/whittaker-category/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yjf1998.github.io/writings/</loc>
+>>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
+  </url>
+  
 </urlset>

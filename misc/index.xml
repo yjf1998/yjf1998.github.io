@@ -4,8 +4,13 @@
     <title>Misc on Jiangfan Yuan</title>
     <link>http://localhost:1313/misc/</link>
     <description>Recent content in Misc on Jiangfan Yuan</description>
+<<<<<<< HEAD
     <generator>Hugo</generator>
     <language>fr</language>
     <atom:link href="http://localhost:1313/misc/index.xml" rel="self" type="application/rss+xml" />
+=======
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language><atom:link href="https://yjf1998.github.io/misc/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
   </channel>
 </rss>
