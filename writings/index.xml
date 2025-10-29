@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writings on Jiangfan Yuan</title>
-    <link>https://yjf1998.github.io/writings/</link>
+    <link>http://localhost:1313/writings/</link>
     <description>Recent content in Writings on Jiangfan Yuan</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="https://yjf1998.github.io/writings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/writings/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

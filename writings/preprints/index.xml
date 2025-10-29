@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>(Pre)prints on Jiangfan Yuan</title>
-    <link>https://yjf1998.github.io/writings/preprints/</link>
+    <link>http://localhost:1313/writings/preprints/</link>
     <description>Recent content in (Pre)prints on Jiangfan Yuan</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <atom:link href="https://yjf1998.github.io/writings/preprints/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/writings/preprints/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Examples of Perverse Coxeter Sheaves and Schobers</title>
-      <link>https://yjf1998.github.io/writings/preprints/perverse-cox-eg/</link>
+      <link>http://localhost:1313/writings/preprints/perverse-cox-eg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjf1998.github.io/writings/preprints/perverse-cox-eg/</guid>
+      <guid>http://localhost:1313/writings/preprints/perverse-cox-eg/</guid>
       <description></description>
     </item>
     <item>
       <title>The Hall category and canonical basis </title>
-      <link>https://yjf1998.github.io/writings/preprints/canonical-basis/</link>
+      <link>http://localhost:1313/writings/preprints/canonical-basis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjf1998.github.io/writings/preprints/canonical-basis/</guid>
+      <guid>http://localhost:1313/writings/preprints/canonical-basis/</guid>
       <description></description>
     </item>
     <item>
       <title>The Langlands formula and perverse sheaves</title>
-      <link>https://yjf1998.github.io/writings/preprints/langlands-perverse/</link>
+      <link>http://localhost:1313/writings/preprints/langlands-perverse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yjf1998.github.io/writings/preprints/langlands-perverse/</guid>
+      <guid>http://localhost:1313/writings/preprints/langlands-perverse/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;www.baidu.com&#34;&gt;M.Kapranov&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
