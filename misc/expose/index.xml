@@ -4,55 +4,29 @@
     <title>Exposé/Groupe de travail on Jiangfan Yuan</title>
     <link>http://localhost:1313/misc/expose/</link>
     <description>Recent content in Exposé/Groupe de travail on Jiangfan Yuan</description>
-<<<<<<< HEAD
     <generator>Hugo</generator>
     <language>fr</language>
     <atom:link href="http://localhost:1313/misc/expose/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://yjf1998.github.io/misc/expose/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
     <item>
       <title>Talk at Arbeitsgemeinschaft: P=W conjecture</title>
       <link>http://localhost:1313/misc/expose/oberwolfach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/misc/expose/oberwolfach/</guid>
       <description>&lt;p&gt;On the proof of P=W conjecture by Hausel-Mellit-Minets-Schiffmann. The collection of whole talks of the event is &lt;a href=&#34;https://publications.mfo.de/bitstream/handle/mfo/4211/OWR_2024_16.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-=======
-      
-      <guid>https://yjf1998.github.io/misc/expose/oberwolfach/</guid>
-      <description>On the proof of P=W conjecture by Hausel-Mellit-Minets-Schiffmann. The collection of whole talks of the event is here.</description>
->>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
     </item>
-    
     <item>
       <title>Talk at groupe de travail: P=W conjecture</title>
       <link>http://localhost:1313/misc/expose/gdtpw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/misc/expose/gdtpw/</guid>
       <description>&lt;p&gt;On the proof of P=W conjecture by Maulik-Shen. The GdT website can be visited at &lt;a href=&#34;https://www.imo.universite-paris-saclay.fr/~emanuele.macri/GdT2022.html&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
-=======
-      
-      <guid>https://yjf1998.github.io/misc/expose/gdtpw/</guid>
-      <description>On the proof of P=W conjecture by Maulik-Shen. The GdT website can be visited at here.</description>
->>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
     </item>
-    
     <item>
       <title>Talk at Séminaire Mathjeunes</title>
       <link>http://localhost:1313/misc/expose/mathjeunes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/misc/expose/mathjeunes/</guid>
       <description>&lt;p&gt;The geometric aspect of relative Langlands.&lt;/p&gt;</description>
-=======
-      
-      <guid>https://yjf1998.github.io/misc/expose/mathjeunes/</guid>
-      <description>The geometric aspect of relative Langlands.</description>
->>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
     </item>
-    
   </channel>
 </rss>

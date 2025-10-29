@@ -4,53 +4,29 @@
     <title>(Pre)prints on Jiangfan Yuan</title>
     <link>http://localhost:1313/writings/preprints/</link>
     <description>Recent content in (Pre)prints on Jiangfan Yuan</description>
-<<<<<<< HEAD
     <generator>Hugo</generator>
     <language>fr</language>
     <atom:link href="http://localhost:1313/writings/preprints/index.xml" rel="self" type="application/rss+xml" />
-=======
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://yjf1998.github.io/writings/preprints/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
     <item>
       <title>Examples of Perverse Coxeter Sheaves and Schobers</title>
       <link>http://localhost:1313/writings/preprints/perverse-cox-eg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/writings/preprints/perverse-cox-eg/</guid>
-=======
-      
-      <guid>https://yjf1998.github.io/writings/preprints/perverse-cox-eg/</guid>
->>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
       <description></description>
     </item>
-    
     <item>
       <title>The Hall category and canonical basis </title>
       <link>http://localhost:1313/writings/preprints/canonical-basis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/writings/preprints/canonical-basis/</guid>
-=======
-      
-      <guid>https://yjf1998.github.io/writings/preprints/canonical-basis/</guid>
->>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
       <description></description>
     </item>
-    
     <item>
       <title>The Langlands formula and perverse sheaves</title>
       <link>http://localhost:1313/writings/preprints/langlands-perverse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
       <guid>http://localhost:1313/writings/preprints/langlands-perverse/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;www.baidu.com&#34;&gt;M.Kapranov&lt;/a&gt;&lt;/p&gt;</description>
-=======
-      
-      <guid>https://yjf1998.github.io/writings/preprints/langlands-perverse/</guid>
-      <description>M.Kapranov</description>
->>>>>>> c652a9472f1916b565b68edd7dd8fd653dbd1ef1
     </item>
-    
   </channel>
 </rss>

@@ -63,15 +63,25 @@
   </div>
 </header>
 
-<main>
-  <h2>About</h2>
-  <article>
+<main class="about-main">
+  <div class="about-left">
     <p>Greetings! I am a Ph.D student in <a href="https://www.imo.universite-paris-saclay.fr/">Laboratoire de Mathématiques d’Orsay </a>, supervised by <a href="https://sites.google.com/site/olivierschiffmann/home">Olivier Schiffmann</a>. <br>
 I am interested in geometric representation theory and its interaction with mathematical physics (eg. quantum groups), automorphic forms (eg. geometric Langlands) and enumerative geometry (eg. DT-theory). <br>
 I can be reached at prenom[.]nom[at]universite-paris-saclay[.]fr</p>
 
-  </article>
+  </div>
+  <div class="about-right">
+    <img src="/images/artwork.jpg" alt="Artwork" class="art-img" onclick="openModal()">
+    <p style="color:#777; font-size:0.8rem; margin-top:0.5rem;">
+    </p>
+  </div>
 </main>
+
+
+<div id="photoModal" class="modal">
+  <span class="close" onclick="closeModal()">&times;</span>
+  <img class="modal-content" id="realPhoto" src="/images/portrait.jpg" alt="Portrait">
+</div>
 
 <footer style="text-align:center; padding:2rem; color:#666;">
   © 2025 Jiangfan Yuan
@@ -98,3 +108,12 @@ I can be reached at prenom[.]nom[at]universite-paris-saclay[.]fr</p>
 </body>
 </html>
 
+
+<script>
+function openModal() {
+  document.getElementById("photoModal").style.display = "block";
+}
+function closeModal() {
+  document.getElementById("photoModal").style.display = "none";
+}
+</script>

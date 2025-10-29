@@ -1,0 +1,31 @@
+name: Build and Deploy (Hugo)
+
+on:
+  push:
+    branches:
+      - main  # 每次你 push main，自动构建网站
+  workflow_dispatch:  # 手动触发也行
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # 如果你用主题，必须打开
+          fetch-depth: 0    # Hugo 可能需要完整历史生成 Lastmod 等字段
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+
+      - name: Build website
+        run: hugo --minify --disableFastRender
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
